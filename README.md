@@ -6,8 +6,8 @@ The A* algorithm navigates to find the shortest path from a starting point to a 
 ## Demonstration of the code
 
 These are some screenshots of the working code.
-
-
+![Screenshot 2024-06-01 184705](https://github.com/cs1522561/a-_algorithm/assets/91705168/23b78dfa-3676-4c20-9c5e-a2519e536aab)
+![Screenshot 2024-06-01 184818](https://github.com/cs1522561/a-_algorithm/assets/91705168/fb7f01a2-d528-4841-88e0-528dc1bbd1c6)
 
 ## Running the code
 

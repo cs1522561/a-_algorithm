@@ -25,5 +25,4 @@ javac Stars.java
 java Stars spiral_v2.csv 75 101 15
 ```
 
-e.g.
-java Stars spiral_v2.csv 75 101 15
+
